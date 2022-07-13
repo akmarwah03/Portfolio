@@ -1,0 +1,55 @@
+.container {
+  width: 100vw;
+}
+
+.intro::after {
+  content: "";
+  position: absolute;
+  -webkit-box-shadow: 0 0 8px rgb(224, 255, 237);
+  box-shadow: 0 0 8px rgb(224, 255, 237);
+  left: 8px;
+  background-color: rgb(224, 255, 237);
+  height: 15px;
+  bottom: 0px;
+  width: 100%;
+  z-index: -1;
+}
+
+.chevron {
+  position: absolute;
+  animation: chevron-up 1.5s infinite;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.hi {
+  animation: wave 3s infinite;
+}
+
+@keyframes chevron-up {
+  0% {
+    top: calc(var(--vh, 1vh) * 93);
+  }
+
+  50% {
+    top: calc(var(--vh, 1vh) * 95);
+  }
+
+  100% {
+    top: calc(var(--vh, 1vh) * 93);
+  }
+}
+
+@keyframes wave {
+  0% {
+    transform: rotate3d(0, 0, 1, 0deg);
+  }
+
+  50% {
+    transform: rotate3d(0, 0, 1, 90deg);
+  }
+
+  100% {
+    transform: rotate3d(0, 0, 1, 0deg);
+  }
+}
