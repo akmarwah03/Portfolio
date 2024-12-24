@@ -19,7 +19,7 @@ const Toolkit = () => {
     <Element name="toolkit">
       <Fade bottom duration={600} distance="70px">
         <div className="w-9/12 mx-auto">
-          <h1 className="relative overflow-hidden text-3xl font-semibold text-center text-green-500 md:text-left green-shadow md:text-3xl md:w-max">
+          <h1 className="relative overflow-hidden text-3xl font-semibold text-center text-green-700 md:text-left green-shadow md:text-3xl md:w-max">
             My Toolkit <h2 className={`inline-block text-3xl`}>💻</h2>
           </h1>
           <div className="flex flex-wrap justify-center w-11/12 gap-10 mx-auto my-16 text-base md:gap-20 ">

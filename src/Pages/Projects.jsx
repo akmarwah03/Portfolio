@@ -16,7 +16,7 @@ const Projects = () => {
   return (
     <Element name="projects">
       <div className="mx-5 my-12 md:w-10/12 md:mx-auto">
-        <h2 className="my-6 text-2xl text-center text-green-500 cursive md:text-left">
+        <h2 className="my-6 text-2xl text-center text-green-700 cursive md:text-left">
           Click on any project to learn more!
         </h2>
         <div className="grid w-full grid-rows-2 gap-10 lg:grid-cols-12 place-items-center">
@@ -63,7 +63,7 @@ const Projects = () => {
                     <div className="grid w-8/12 grid-flow-col mx-auto place-items-center">
                       <a
                         href="https://main--boisterous-bombolone-5c4878.netlify.app/"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -71,7 +71,7 @@ const Projects = () => {
                       </a>
                       <a
                         href="https://github.com/akmarwah03/instaclone-frontend"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -123,7 +123,7 @@ const Projects = () => {
                     <div className="grid w-8/12 grid-flow-col mx-auto place-items-center">
                       <a
                         href="https://vocabwar.netlify.app/"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -131,7 +131,7 @@ const Projects = () => {
                       </a>
                       <a
                         href="https://github.com/ParthCv/COMP-2800-Team-BBY-16-VocabWar"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -179,7 +179,7 @@ const Projects = () => {
                     <div className="grid w-8/12 grid-flow-col mx-auto place-items-center">
                       <a
                         href="https://justrent-fff6d.web.app/"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -187,7 +187,7 @@ const Projects = () => {
                       </a>
                       <a
                         href="https://github.com/akmarwah03/JustRent"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >
@@ -236,7 +236,7 @@ const Projects = () => {
                     <div className="grid w-8/12 grid-flow-col mx-auto place-items-center">
                       <a
                         href="https://siegefitness.in"
-                        className="px-3 py-2 text-base transition-all bg-green-500 rounded-lg hover:bg-gray-100 hover:text-green-500"
+                        className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
                       >

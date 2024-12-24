@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div>
       <Sandwich
-        className="fixed z-40 text-green-500 right-6 top-6"
+        className="fixed z-40 text-green-700 right-6 top-6"
         size={30}
         style={{ strokeWidth: "3" }}
         onClick={() => setShowMenu(true)}

@@ -7,7 +7,7 @@ const Menu = (props) => {
   };
 
   return (
-    <div className="fixed top-0 left-0 z-50 grid w-screen bg-green-400 h-correct place-items-center">
+    <div className="fixed top-0 left-0 z-50 grid w-screen bg-green-700 h-correct place-items-center">
       <X
         className="fixed text-white right-10 top-6"
         size={30}
