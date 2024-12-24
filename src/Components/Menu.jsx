@@ -53,7 +53,7 @@ const Menu = (props) => {
         >
           <h2 className="hover:text-green-700">Contact</h2>
         </Link>
-        <a href="https://raghavmarwah.com">
+        <a href="https://raghavmarwah.com" target="_blank" aria-label="Raghav Marwah Website" rel="noreferrer">
           <h2 className="hover:text-green-700">Raghav Marwah</h2>
         </a>
       </div>

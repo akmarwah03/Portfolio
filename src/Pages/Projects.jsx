@@ -66,6 +66,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="Instagram Clone"
                       >
                         VIEW LIVE
                       </a>
@@ -74,6 +75,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="Instagram Clone Github Repo"
                       >
                         GITHUB
                       </a>
@@ -126,6 +128,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="VocabWar"
                       >
                         VIEW LIVE
                       </a>
@@ -134,6 +137,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="VocabWar Github Repo"
                       >
                         GITHUB
                       </a>
@@ -182,6 +186,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="JustRent"
                       >
                         VIEW LIVE
                       </a>
@@ -190,6 +195,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="JustRent Github Repo"
                       >
                         GITHUB
                       </a>
@@ -239,6 +245,7 @@ const Projects = () => {
                         className="px-3 py-2 text-base transition-all bg-green-800 rounded-lg hover:bg-gray-100 hover:text-green-700"
                         rel="noreferrer"
                         target="_blank"
+                        aria-label="SiegeFitness"
                       >
                         VIEW LIVE
                       </a>

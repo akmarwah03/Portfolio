@@ -24,7 +24,7 @@ const Home = () => {
               </h2>
               <h2 className="text-xl text-gray-600 mt-7">
                 Currently working at{" "}
-                <a href="https://www.revasolutions.com/" target="_blank">
+                <a href="https://www.revasolutions.com/" target="_blank" rel="noreferrer" aria-label="Reva Solutions">
                   <span className="text-green-700">Reva Solutions</span>
                 </a>{" "}
                 as a Software Developer. 📚

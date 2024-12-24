@@ -22,6 +22,7 @@ const Connect = () => {
                   href="https://linkedin.com/in/akshay-marwah/"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="LinkedIn"
                 >
                   <Linkedin
                     className="text-green-700"
@@ -33,6 +34,7 @@ const Connect = () => {
                   href="https://twitter.com/akshaymarwah8/"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Twitter"
                 >
                   <Twitter
                     className="text-green-700"
@@ -44,6 +46,7 @@ const Connect = () => {
                   href="https://github.com/akmarwah03"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="GitHub"
                 >
                   <GitHub
                     className="text-green-700"
@@ -52,9 +55,10 @@ const Connect = () => {
                   />
                 </a>
                 <a
-                  href="mailto:amarwah4@my.bcit.ca"
+                  href="mailto:akshaymarwah@outlook.com"
                   target="_blank"
                   rel="noreferrer"
+                  aria-label="Email"
                 >
                   <Mail
                     className="text-green-700"
